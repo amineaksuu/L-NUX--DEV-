@@ -1,4 +1,4 @@
-# LİNUX ÖDEVİ
+# LINUX ODEVI
 C dili ile oluşturulmuştur. 
 Özellikler: Syslog dosyasını satır satır okur. Her satırı bağlı listeye bir düğüm olarak ekler. Tüm günlükleri ekrana yazdırır. Program tamamlandıktan sonra bellek temizliği yapar.
 Gereksinimler: Bir Linux dağıtımı (Ubuntu, Debian, vs.) ,GCC derleyicisi, Syslog dosyasına erişim izni (Root yetkisi gerekebilir).
